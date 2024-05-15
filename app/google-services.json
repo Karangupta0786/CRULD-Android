@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802360886646",
+    "project_id": "cruld-app-ddd11",
+    "storage_bucket": "cruld-app-ddd11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802360886646:android:c01eced69c52c7f7de6657",
+        "android_client_info": {
+          "package_name": "com.example.cruldapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXq-yuHEAtfZagw8JQE80wSRlFeJ4QgZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
